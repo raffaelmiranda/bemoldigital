@@ -1,0 +1,17 @@
+1. A solução deve ser disponibilizada em Cloud ou On-premise?
+O projeto está configurado com Docker possibilitando que seja hospedado em multicloud, pode usar Kubernates para escabilidade.
+
+2. Considerando a participação de 4 pessoas técnicas para o desenvolvimento dessa solução,
+responda qual ferramenta acreditas ser apropriada para o controle de tarefas da equipe,
+a ferramenta é ágil?
+	Utilizaria Scrum com quadro kanban. Para quadro kanban tem bastante ferramenta como por exemplo Trello, Azure Boards, Monday, Asana.
+
+3. Você se sente capaz de liderar esta equipe? Por quê?
+	Não posso disser que estou pronto, mas sim capacitando para tal atividade, sempre existe coisas aprender, tenho 14 anos de TI, já vi muita coisa. Já tive experiência com mentoria para estagiários, desenvolvedores júnior e plenos. Hoje estou fazendo pós-graduação de Gestão de Projetos. Tenho muita coisa aprender. Minha movimentação de carreira é ser Tech Lead/Team Lead.
+
+4. Se pudesse sugerir uma melhoria, mudança ou oportunidade. O que seria?
+Pergunta muito aberta, melhoria em que exatamente. Se for sobre a desafio técnico, seria especificar melhor a proposta.
+	
+
+5. Acha válido esse desafio para o processo que está participando?
+	Sim em conjunto com entrevista, para filtrar os candidatos.

@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bemol.Presentation", "Bemol.Presentation\Bemol.Presentation.csproj", "{3D2900AC-6627-4250-B57A-B461E9466D8A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bemol.Application", "Bemol.Application\Bemol.Application.csproj", "{ED6C3864-06FC-4AA1-AB78-9921112D02C9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bemol.Domain", "Bemol.Domain\Bemol.Domain.csproj", "{6C09C6B4-4E99-44D5-B441-27F2A64676E4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bemol.Infrastructure", "Bemol.Infrastructure\Bemol.Infrastructure.csproj", "{3FB6F772-3609-4838-89BC-6C713BB2B8F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D2900AC-6627-4250-B57A-B461E9466D8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D2900AC-6627-4250-B57A-B461E9466D8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D2900AC-6627-4250-B57A-B461E9466D8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D2900AC-6627-4250-B57A-B461E9466D8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED6C3864-06FC-4AA1-AB78-9921112D02C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED6C3864-06FC-4AA1-AB78-9921112D02C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED6C3864-06FC-4AA1-AB78-9921112D02C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED6C3864-06FC-4AA1-AB78-9921112D02C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C09C6B4-4E99-44D5-B441-27F2A64676E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C09C6B4-4E99-44D5-B441-27F2A64676E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C09C6B4-4E99-44D5-B441-27F2A64676E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C09C6B4-4E99-44D5-B441-27F2A64676E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FB6F772-3609-4838-89BC-6C713BB2B8F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FB6F772-3609-4838-89BC-6C713BB2B8F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FB6F772-3609-4838-89BC-6C713BB2B8F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FB6F772-3609-4838-89BC-6C713BB2B8F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5466A60B-4798-43EC-8100-21DCB058398C}
+	EndGlobalSection
+EndGlobal
