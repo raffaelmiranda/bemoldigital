@@ -24,8 +24,6 @@ Acessar o endereço http://localhost:5145/
 
 ## Diagramas
 
----
-
 **Diagrama de Contexto**
 ![Diagrama 1](figuras/1%20-%20Contexto.png 'Diagrama 1')
 
@@ -37,7 +35,7 @@ Acessar o endereço http://localhost:5145/
 ---
 
 **Diagrama de Componente**
-![Diagrama 2](figuras/3%20-%20Componente.png 'Diagrama 2')
+![Diagrama 3](figuras/3%20-%20Componente.png 'Diagrama 3')
 
 ## Tela Sistema
 
